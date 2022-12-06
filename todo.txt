@@ -1,0 +1,16 @@
+- login with firebase with some option : 
+
+firebase with kisWeb 
+firbae with android and ios 
+
+
+- login with google authentication : 
+ + google sign in 
+ + handling google sign method.
+
+
+- login with twitter authentication : 
+
+- login with facebook authentication :
+
+- login with phone authentication :
